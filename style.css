@@ -1,0 +1,36 @@
+#count{
+    display: block;
+    text-align: center;
+    font-size:30em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#buttons{
+    text-align: center;
+}
+
+.buttons {
+    padding: 20px 40px;
+    font-size: 3em;
+    color: white;
+    cursor: pointer;
+    background-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(115, 163, 236);
+}
+
+.buttons:hover {
+    background-color: rgb(115, 163, 236);
+}
+
+#title1 {
+    display: block;
+    font-size: 5em;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
